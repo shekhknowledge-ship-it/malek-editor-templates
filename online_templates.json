@@ -1,0 +1,156 @@
+[
+ {
+  "v": 1,
+  "name": "Jumma Gold (Online)",
+  "cat": "Jumma Mubarak",
+  "w": 1080,
+  "h": 1080,
+  "bg": {
+   "type": 1,
+   "c": "#FF1B1E26",
+   "c2": "#FF3E2723",
+   "dir": 2
+  },
+  "layers": [
+   {
+    "t": "shape",
+    "x": 540,
+    "y": 540,
+    "shape": 1,
+    "w": 960,
+    "h": 960,
+    "fc": "#FFFFFFFF",
+    "filled": false,
+    "sw": 5,
+    "stc": "#FFD4A017",
+    "r": 0,
+    "o": 1
+   },
+   {
+    "t": "sticker",
+    "x": 540,
+    "y": 320,
+    "e": "🕌",
+    "s": 0.651,
+    "r": 0
+   },
+   {
+    "t": "text",
+    "x": 540.0,
+    "y": 600,
+    "text": "Jumma Mubarak",
+    "font": "asset:fonts/Lora.ttf",
+    "size": 110,
+    "color": "#FFFFD54F",
+    "fit": true,
+    "al": 1,
+    "b": true,
+    "sb": 6,
+    "sx": 0,
+    "sy": 3,
+    "shc": "#66000000"
+   },
+   {
+    "t": "text",
+    "x": 540.0,
+    "y": 740,
+    "text": "Your Name",
+    "font": "asset:fonts/Poppins-Medium.ttf",
+    "size": 48,
+    "color": "#FFFFFFFF",
+    "fit": true,
+    "al": 1
+   },
+   {
+    "t": "text",
+    "x": 540.0,
+    "y": 960,
+    "text": "Shop Name • Phone",
+    "font": "asset:fonts/Poppins-Regular.ttf",
+    "size": 34,
+    "color": "#FFD7CCC8",
+    "fit": true,
+    "al": 1
+   }
+  ]
+ },
+ {
+  "v": 1,
+  "name": "Weekend Offer (Online)",
+  "cat": "Sale & Offer",
+  "w": 1080,
+  "h": 1350,
+  "bg": {
+   "type": 1,
+   "c": "#FF0F9E8E",
+   "c2": "#FF22C3B0",
+   "dir": 2
+  },
+  "layers": [
+   {
+    "t": "sticker",
+    "x": 540,
+    "y": 260,
+    "e": "🛍️",
+    "s": 0.5729,
+    "r": 0
+   },
+   {
+    "t": "text",
+    "x": 540.0,
+    "y": 560,
+    "text": "WEEKEND\nOFFER",
+    "font": "asset:fonts/Poppins-Bold.ttf",
+    "size": 130,
+    "color": "#FFFFFFFF",
+    "fit": true,
+    "al": 1,
+    "lh": 1.0,
+    "sb": 6,
+    "sx": 0,
+    "sy": 3,
+    "shc": "#66000000"
+   },
+   {
+    "t": "text",
+    "x": 540.0,
+    "y": 820,
+    "text": "FLAT 20% OFF",
+    "font": "asset:fonts/Poppins-Bold.ttf",
+    "size": 64,
+    "color": "#FF0F9E8E",
+    "fit": true,
+    "al": 1,
+    "box": true,
+    "bc": "#FFFFFFFF",
+    "bp": 35,
+    "br": 50
+   },
+   {
+    "t": "shape",
+    "x": 540,
+    "y": 1265,
+    "shape": 0,
+    "w": 1080,
+    "h": 170,
+    "fc": "#FF1A1A1A",
+    "filled": true,
+    "sw": 0,
+    "stc": "#FFFFFFFF",
+    "r": 0,
+    "o": 1
+   },
+   {
+    "t": "text",
+    "x": 540.0,
+    "y": 1265,
+    "text": "Shop Name • Phone",
+    "font": "asset:fonts/Poppins-Medium.ttf",
+    "size": 44,
+    "color": "#FFFFFFFF",
+    "fit": true,
+    "al": 1
+   }
+  ]
+ }
+]
